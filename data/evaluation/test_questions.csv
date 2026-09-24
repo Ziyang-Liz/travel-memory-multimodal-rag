@@ -1,0 +1,13 @@
+question_id,family,question,expected_image_id,gold_answer
+q001,factual,What did I eat at Sierra Café in Auckland?,img_001,French toast at Sierra Café.
+q002,factual,What happened during the climb to Mount Victoria?,img_003,A risky steep shortcut caused a friend's phone screen to be damaged.
+q003,factual,What did I drink at the end of the Hobbiton visit?,img_006,Ginger beer in a cute brown cup.
+q004,cross_modal,Find the memory where the image shows a small Hobbit house.,img_004,Hobbiton Movie Set small Hobbit house portrait.
+q005,cross_modal,Which image memory is about a blue lake and a bright smile near a church?,img_019,Church of the Good Shepherd / Lake Tekapo smiling photo.
+q006,cross_modal,Find a food-related photo from Auckland and summarise the memory.,img_008,Butter chicken curry with garlic naan was delicious.
+q007,multi_hop,Compare Auckland and Queenstown. Which city gave me more mountain or landscape memories?,img_011,"Queenstown had more landscape memories, including Skyline, Fiordland, Milford Sound, and Mount Cook route."
+q008,multi_hop,"Based on my notes, do I seem to enjoy food memories or landscape memories more?",img_011,"Both are positive, but landscape memories are often described as impressive and deeply memorable; food is also strongly enjoyed."
+q009,multi_hop,Which places were tiring but still memorable?,img_003,Mount Victoria and Milford Sound trip were tiring but memorable.
+q010,follow_up,I want a scenic memory similar to Queenstown Skyline but less risky than Mount Victoria. What should I choose?,img_011,Queenstown Skyline view or Lake Tekapo is scenic and less risky than the Mount Victoria shortcut.
+q011,follow_up,I like food memories. Which Auckland food memory should I revisit?,img_008,Butter chicken with garlic naan or French toast at Sierra Café.
+q012,follow_up,I want a happy friend-related memory. Which one should I look at?,img_002,Albert Park fountain group photo or Victoria Square lifting photo.

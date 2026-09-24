@@ -1,0 +1,5 @@
+﻿family,questions,retrieval_accuracy,avg_latency
+cross_modal,3,0.0,3.4113333333333333
+factual,3,0.0,2.3473333333333333
+follow_up,3,0.0,4.050666666666666
+multi_hop,3,0.0,5.561333333333334

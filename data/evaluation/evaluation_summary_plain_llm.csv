@@ -1,0 +1,5 @@
+﻿family,questions,avg_latency
+cross_modal,3,1.955
+factual,3,1.6283333333333332
+follow_up,3,3.743
+multi_hop,3,3.4333333333333336
